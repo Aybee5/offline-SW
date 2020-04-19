@@ -1,0 +1,16 @@
+h1{
+	font-style:serif;
+}
+input{
+	float: right;
+}
+form{
+	width: 300px;
+	background-color: cyan;
+}
+body{
+	background-color: #A1B067;
+}
+.nostyle{
+	float: none;
+}
